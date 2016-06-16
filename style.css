@@ -4,7 +4,7 @@ body{
 
 .main {
 	height: 1440px;
-	background-image: url(file:///Users/Aayush/Desktop/portfolio/images/background.jpg);
+	background-image: url(images/background.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
