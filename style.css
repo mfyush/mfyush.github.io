@@ -1,0 +1,35 @@
+body{
+	margin: 0px;
+}
+
+.main {
+	height: 1440px;
+	background-image: url(file:///Users/Aayush/Desktop/portfolio/images/background.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#container {
+	min-height: 1440px;
+	height: 100%
+	max-width: 960px;
+	width: 100%
+	margin: 0 auto;
+}
+
+.header	{
+	margin-top: 0;
+	width: 960px;
+}
+
+.logo	{
+	float: left;
+	margin-top: 10px;
+
+}
+
+nav {
+	float: right;
+	margin-top: 26px;
+}
